@@ -6,7 +6,7 @@ const App: React.FC = () => (
     theme={{
       token: {
         // Seed Token, affects wide range
-        colorPrimary: '#00b96b',
+        colorPrimary: '#2469F2',
         borderRadius: 2,
 
         // Derived token, affects narrow range
